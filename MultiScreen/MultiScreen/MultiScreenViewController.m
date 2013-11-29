@@ -32,7 +32,7 @@
     
     SecondViewController *secondView
     = (SecondViewController *)segue.destinationViewController;
-    secondView.paramIn = @"ABC";
+    secondView.paramIn = @"GitHubテスト";
     
 }
 
